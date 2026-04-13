@@ -1,14 +1,17 @@
-RFC-001 — PrazoCerto
-Campo	Valor
-RFC	RFC-001
-Status	Rascunho
-Versão	0.1.0
-Data	Abril / 2026
-Autor	Seu Nome
-Curso	Engenharia de Software
-Disciplina	PAC VII
-Categoria	Web App / Sistema de Gestão Comercial
-Repositório	(link do seu GitHub)
+# RFC-001 — PrazoCerto
+
+| Campo        | Valor                                      |
+|--------------|---------------------------------------------|
+| RFC          | RFC-001                                     |
+| Status       | Rascunho                                    |
+| Versão       | 0.1.0                                       |
+| Data         | Abril / 2026                                |
+| Autor        | Seu Nome                                    |
+| Curso        | Engenharia de Software                      |
+| Disciplina   | PAC VII                                     |
+| Categoria    | Web App / Sistema de Gestão Comercial       |
+| Repositório  | https://github.com/seu-usuario/prazocerto   |
+
 Sumário
 Problema Identificado
 Oportunidade
@@ -16,7 +19,6 @@ Proposta de Solução
 Justificativa
 Alternativas Consideradas
 Resultados Esperados
-
 Questões em Aberto
 1. Problema Identificado
 
@@ -94,9 +96,9 @@ construção de interfaces centradas na experiência do usuário.
 5. Alternativas Consideradas
 Alternativa	Motivo do descarte
 Caderno físico	Alta suscetibilidade a erros e perda de dados
-Planilhas (Excel)	Baixa usabilidade em dispositivos móveis e falta de automação
+Planilhas (Excel)	Baixa usabilidade em dispositivos móveis e pouca automação
 Aplicativos financeiros genéricos	Complexidade excessiva para o público-alvo
-Aplicações de notas (ex: bloco de notas)	Falta de estrutura e controle de dados
+Aplicações de notas	Falta de estrutura e controle de dados
 
 Escolha adotada: desenvolvimento de uma aplicação web dedicada, com foco na simplicidade, autonomia do usuário e adequação ao contexto de pequenos comerciantes.
 
