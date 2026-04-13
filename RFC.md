@@ -6,11 +6,11 @@
 | Status       | Rascunho                                    |
 | Versão       | 0.1.0                                       |
 | Data         | Abril / 2026                                |
-| Autor        | Seu Nome                                    |
+| Autor        | Gabriel da Silva                            |
 | Curso        | Engenharia de Software                      |
 | Disciplina   | PAC VII                                     |
 | Categoria    | Web App / Sistema de Gestão Comercial       |
-| Repositório  | https://github.com/seu-usuario/prazocerto   |
+| Repositório  | https://github.com/gabrielsilva611/prazocerto   |
 
 Sumário
 
